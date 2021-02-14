@@ -1,0 +1,2 @@
+User interface-
+The user interface takes numbers and translates them into a graphic. This is done so the user can navigate and interact with the device. A successful UI includes being user-friendly and efficient.
