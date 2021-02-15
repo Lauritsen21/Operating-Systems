@@ -1,2 +1,4 @@
-User interface-
+User Interface-
 The user interface takes numbers and translates them into a graphic. This is done so the user can navigate and interact with the device. A successful UI includes being user-friendly and efficient.
+Multiple Users-
+This is a very useful OS function when you have one computer per household and you want to be able to have multiple users on a single PC. This function allows more than one user on a PC. It allows each user to have their own background and files on there own user name. You can also have a password for each user.
